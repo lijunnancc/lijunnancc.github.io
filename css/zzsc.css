@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+body{background:url(loginTopBg.png) repeat-x}
+.wrap960{position:relative;margin:0 auto;width:800px;z-index:1}
+
+.shareLayout{position:relative;height:320px;background:#ffffff;overflow:hidden}
+.shareList{position:absolute;left:0;float:left;white-space:nowrap;word-break:break-all}
+.shareList a{display:inline-block;width:960px;height:320px;overflow:hidden;word-spacing:-4px}
+.shareList a{_display:inline}
+.shareList img{float:left}
+
+.backBtn,.nextBtn{position:absolute;top:133px;width:51px;height:51px;background:url(loginBg.png) 0 -554px;dispaly:block}
+.backBtn{left:-75px}
+.backBtn:hover{background-position:0 -605px}
+.nextBtn{right:-75px;background-position:-51px -554px}
+.nextBtn:hover{background-position:-51px -605px}
+
+.pageLayout{position:absolute;top:290px;right:50px;height:5px}
+.pageLayout a{margin-right:10px;width:25px;height:5px;display:inline-block;overflow:hidden;cursor:pointer;;vertical-align:top}
+.pageLayout span{float:left;width:25px;height:5px;overflow:hidden;background:#94c8e0;display:block}
+.pageLayout em{float:left;width:0;height:5px;overflow:hidden;background:#32b16c;display:block}
+.pageLayout a:hover span{background:#51ba91}
+
