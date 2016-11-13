@@ -55,6 +55,7 @@ a img {
 }
 .slideshow {
 	clear: both;
+	overflow: hidden; 
 }
 .slideshow li {
 	position: relative;
@@ -138,7 +139,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = #90000000, en
 }
 .comiis_wrap960, .comiis_wrapad {
 	margin: 0 auto;
-	width: 845px;
+	width: 100%;
 }
 .comiis_wrapad {
 	margin-top: 0px;
@@ -152,6 +153,6 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = #90000000, en
 }
 #slidesImgs li {
 	width: 960px;
-	height: 190px;
+	height: 220px;
 	display: none;
 }

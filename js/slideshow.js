@@ -34,11 +34,19 @@ function SlideShow(c) {
 $(function(){
   $("#guanggao1").click(function()
   {
-    document.location.href = "http://www.baidu.com";
+    document.location.href = "http://www.lijunnan.cc";
   })
     $("#guanggao2").click(function()
   {
-    document.location.href = "http://www.qq.com";
+    document.location.href = "http://www.lijunnan.cc/posts/applepaihang.html";
+  })
+  $("#guanggao3").click(function()
+  {
+    document.location.href = "http://www.lijunnan.cc";
+  })
+  $("#guanggao4").click(function()
+  {
+    document.location.href = "http://www.lijunnan.cc";
   })
 
 });
