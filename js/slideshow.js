@@ -34,7 +34,7 @@ function SlideShow(c) {
 $(function(){
   $("#guanggao1").click(function()
   {
-    document.location.href = "http://www.lijunnan.cc";
+    document.location.href = "http://u.lijunnan.cc";
   })
     $("#guanggao2").click(function()
   {
