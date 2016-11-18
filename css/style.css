@@ -399,6 +399,7 @@ h4 {
 
 .page .entry .thumbnail{
   margin: 10px;
+  width:200px;
 }
 
 .page h3.title, .page h3.title-top {
