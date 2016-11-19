@@ -6,7 +6,7 @@
 @media (min-width: 1200px) {
   .page .entry .thumbnail{
     float: right;
-    width: 300px;
+    width: 150px;
   }
 }
 
@@ -25,7 +25,7 @@
 @media (min-width: 768px) and (max-width: 979px) {
   .page .entry .thumbnail{
     float: right;
-    width: 200px;
+    width: 120px;
   }
 }
 

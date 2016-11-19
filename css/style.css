@@ -398,8 +398,8 @@ h4 {
 }
 
 .page .entry .thumbnail{
-  margin: 10px;
-  width:200px;
+  margin: 5px 10px -5px -5px;
+  padding: 5px 5px 5px 5px;
 }
 
 .page h3.title, .page h3.title-top {
