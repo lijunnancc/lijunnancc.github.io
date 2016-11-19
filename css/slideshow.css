@@ -153,6 +153,6 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr = #90000000, en
 }
 #slidesImgs li {
 	width: 960px;
-	height: 220px;
+	height: 110px;
 	display: none;
 }
